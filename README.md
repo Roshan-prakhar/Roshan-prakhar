@@ -4,7 +4,7 @@
 
 ### 🐱‍💻 About Me:
 
-Currently, I am enthusiastically working on backend and full-stack projects using Java and Spring Boot.  
+Currently, I am an Intern at UV Netware Pvt. Ltd. where i enthusiastically working on backend and full-stack projects using Java and Spring Boot.  
 I focus on building real-world solutions that aim to bring a positive impact — from scalable microservices to cloud-deployed systems.  
 I'm eager to collaborate on open-source and backend-heavy projects, and I enjoy clean code, automation, and performance optimization.
 
@@ -32,6 +32,6 @@ Ask me about web APIs, debugging, backend architecture, and RESTful services.
 ---
 
 ### 📌 Portfolio & Links:
-🔗 [My Portfolio](http://por-env.eba-fttjpmge.ap-south-1.elasticbeanstalk.com/)  
+🔗 [My Portfolio](https://portfolio-uy6k.onrender.com/)  
 🔗 [GitHub](https://github.com/Roshan-Prakhar)  
-🔗 [LinkedIn](https://www.linkedin.com/in/roshan-prakhar-498104325/)
+🔗 [LinkedIn](https://www.linkedin.com/in/Roshan-prakhar)
