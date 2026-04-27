@@ -14,7 +14,7 @@ Ask me about web APIs, debugging, backend architecture, and RESTful services.
 ---
 
 ### 🔗 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rs_pr28)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/roshan_prakhar)
 
 ---
 
