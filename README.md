@@ -1,4 +1,4 @@
-*<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Roshan%20Prakhar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CODE%20%7C%20DEBUG%20%7C%20LEARN%20&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Roshan%20Prakhar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CODE%20%7C%20DEBUG%20%7C%20LEARN%20&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=No%20Luck%3F%20Work%20Harder" alt="Typing introduction" />
@@ -97,4 +97,4 @@
 
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-**
+
