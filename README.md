@@ -1,47 +1,100 @@
-# 👋 Hi, I'm Roshan Prakhar
+*<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Roshan%20Prakhar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CODE%20%7C%20DEBUG%20%7C%20LEARN%20&descSize=18&descAlignY=55&textBg=false"/>
 
-🎯 **Backend Developer** | Java • Spring Boot • AWS
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=No%20Luck%3F%20Work%20Harder" alt="Typing introduction" />
+</p>
 
----
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Roshan-prakhar">
+    <img src="https://komarev.com/ghpvc/?username=Roshan-prakhar&label=Profile%20views&color=00FFFF&style=flat-square" alt="Roshan-prakhar's profile views" />
+  </a>
+</p>
 
-## 🚀 About Me
+<img src="none" alt="Banner" width="100%" />
 
-I'm a backend developer passionate about building **real-world solutions** that create a positive impact.  
-I work with **Java** and **Spring Boot** on scalable microservices and full-stack projects.
+## 📌 About Me
+- I'm a college Undergrad, who is passionate about breaking into Software Engineering Domain. I love building with JAVA, Spring Framework, React.js, RAG, etc. Looking to make meaningful Contributions and Learn!
 
-- 🔧 I love clean code, automation, and performance optimization  
-- 💬 Ask me about: Web APIs, debugging, backend architecture, RESTful services  
-- 🏏 Outside coding: Music • Cricket • Tinkering under the hood  
 
----
+## 🧠 My Focus Areas
+- Web Development
+- AI Engineering
 
-## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Roshan-prakhar">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Roshan-prakhar&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Roshan-prakhar's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Roshan-prakhar&theme=dark&hide_border=true&cache_seconds=86400" alt="Roshan-prakhar's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Roshan-prakhar&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Roshan Prakhar's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Roshan-prakhar&theme=dark&radius=10" alt="Roshan-prakhar's Activity Graph" />
+</p>
 
----
 
-## 🔥 Highlights
+## 🛠️ Languages & Tools
 
-- 🔥 **PRO** – Focused on production-ready, scalable systems  
-- 🤝 Open to collaborate on **open-source** and **backend-heavy** projects  
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 
----
+</p>
 
-## 🌐 Connect with Me
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+</p>
 
----
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
 
-⭐ *Feel free to explore my repositories and reach out for collaboration!*
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/Roshan-prakhar"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Roshan Prakhar's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:roshanprakhar@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Roshan Prakhar's Email"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.portfolio-uy6k.onrender.com"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/919508849293"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+**
