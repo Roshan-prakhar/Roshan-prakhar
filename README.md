@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
+<img src="https://drive.google.com/file/d/1-hD37gcRi85F-SNIbKAAiR42bOEGbWl6/view?usp=sharing" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I'm a college Undergrad, who is passionate about breaking into Software Engineering Domain. I love building with JAVA, Spring Framework, React.js, RAG, etc. Looking to make meaningful Contributions and Learn!
@@ -96,5 +96,4 @@
 </picture>
 
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
 
